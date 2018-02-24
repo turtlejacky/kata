@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rot13", "rot13\rot13.csproj", "{15B9417F-B0C6-4F19-B738-F67B24FB5FC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rot13_test", "rot13_test\rot13_test.csproj", "{990F9EFE-4A6E-4EC5-9C0D-185ECBF97C8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15B9417F-B0C6-4F19-B738-F67B24FB5FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B9417F-B0C6-4F19-B738-F67B24FB5FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B9417F-B0C6-4F19-B738-F67B24FB5FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B9417F-B0C6-4F19-B738-F67B24FB5FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{990F9EFE-4A6E-4EC5-9C0D-185ECBF97C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{990F9EFE-4A6E-4EC5-9C0D-185ECBF97C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{990F9EFE-4A6E-4EC5-9C0D-185ECBF97C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{990F9EFE-4A6E-4EC5-9C0D-185ECBF97C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

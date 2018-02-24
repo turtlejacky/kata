@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{990F9EFE-4A6E-4EC5-9C0D-185ECBF97C8D}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="rot13/Class1.cs">
+    <Files>
+      <File FileName="rot13/Class1.cs" Line="5" Column="22" />
+      <File FileName="rot13_test/UnitTest1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.rot13__test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

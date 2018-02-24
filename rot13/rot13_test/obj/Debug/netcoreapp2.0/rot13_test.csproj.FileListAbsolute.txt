@@ -1,0 +1,16 @@
+/Users/taojack/Projects/rot13/rot13_test/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/taojack/Projects/rot13/rot13_test/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/taojack/Projects/rot13/rot13_test/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/taojack/Projects/rot13/rot13_test/bin/Debug/netcoreapp2.0/rot13_test.deps.json
+/Users/taojack/Projects/rot13/rot13_test/bin/Debug/netcoreapp2.0/rot13_test.runtimeconfig.json
+/Users/taojack/Projects/rot13/rot13_test/bin/Debug/netcoreapp2.0/rot13_test.runtimeconfig.dev.json
+/Users/taojack/Projects/rot13/rot13_test/bin/Debug/netcoreapp2.0/rot13_test.dll
+/Users/taojack/Projects/rot13/rot13_test/bin/Debug/netcoreapp2.0/rot13_test.pdb
+/Users/taojack/Projects/rot13/rot13_test/bin/Debug/netcoreapp2.0/rot13.dll
+/Users/taojack/Projects/rot13/rot13_test/bin/Debug/netcoreapp2.0/rot13.pdb
+/Users/taojack/Projects/rot13/rot13_test/obj/Debug/netcoreapp2.0/rot13_test.csprojResolveAssemblyReference.cache
+/Users/taojack/Projects/rot13/rot13_test/obj/Debug/netcoreapp2.0/rot13_test.csproj.CoreCompileInputs.cache
+/Users/taojack/Projects/rot13/rot13_test/obj/Debug/netcoreapp2.0/rot13_test.AssemblyInfoInputs.cache
+/Users/taojack/Projects/rot13/rot13_test/obj/Debug/netcoreapp2.0/rot13_test.AssemblyInfo.cs
+/Users/taojack/Projects/rot13/rot13_test/obj/Debug/netcoreapp2.0/rot13_test.dll
+/Users/taojack/Projects/rot13/rot13_test/obj/Debug/netcoreapp2.0/rot13_test.pdb

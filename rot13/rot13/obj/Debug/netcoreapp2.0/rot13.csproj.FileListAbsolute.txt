@@ -1,0 +1,9 @@
+/Users/taojack/Projects/rot13/rot13/bin/Debug/netcoreapp2.0/rot13.deps.json
+/Users/taojack/Projects/rot13/rot13/bin/Debug/netcoreapp2.0/rot13.dll
+/Users/taojack/Projects/rot13/rot13/bin/Debug/netcoreapp2.0/rot13.pdb
+/Users/taojack/Projects/rot13/rot13/obj/Debug/netcoreapp2.0/rot13.csprojResolveAssemblyReference.cache
+/Users/taojack/Projects/rot13/rot13/obj/Debug/netcoreapp2.0/rot13.csproj.CoreCompileInputs.cache
+/Users/taojack/Projects/rot13/rot13/obj/Debug/netcoreapp2.0/rot13.AssemblyInfoInputs.cache
+/Users/taojack/Projects/rot13/rot13/obj/Debug/netcoreapp2.0/rot13.AssemblyInfo.cs
+/Users/taojack/Projects/rot13/rot13/obj/Debug/netcoreapp2.0/rot13.dll
+/Users/taojack/Projects/rot13/rot13/obj/Debug/netcoreapp2.0/rot13.pdb
