@@ -1,0 +1,9 @@
+/Users/taojack/Projects/NextSmallNumber/NextSmallNumber/bin/Debug/netcoreapp2.0/NextSmallNumber.deps.json
+/Users/taojack/Projects/NextSmallNumber/NextSmallNumber/bin/Debug/netcoreapp2.0/NextSmallNumber.dll
+/Users/taojack/Projects/NextSmallNumber/NextSmallNumber/bin/Debug/netcoreapp2.0/NextSmallNumber.pdb
+/Users/taojack/Projects/NextSmallNumber/NextSmallNumber/obj/Debug/netcoreapp2.0/NextSmallNumber.csprojResolveAssemblyReference.cache
+/Users/taojack/Projects/NextSmallNumber/NextSmallNumber/obj/Debug/netcoreapp2.0/NextSmallNumber.csproj.CoreCompileInputs.cache
+/Users/taojack/Projects/NextSmallNumber/NextSmallNumber/obj/Debug/netcoreapp2.0/NextSmallNumber.AssemblyInfoInputs.cache
+/Users/taojack/Projects/NextSmallNumber/NextSmallNumber/obj/Debug/netcoreapp2.0/NextSmallNumber.AssemblyInfo.cs
+/Users/taojack/Projects/NextSmallNumber/NextSmallNumber/obj/Debug/netcoreapp2.0/NextSmallNumber.dll
+/Users/taojack/Projects/NextSmallNumber/NextSmallNumber/obj/Debug/netcoreapp2.0/NextSmallNumber.pdb

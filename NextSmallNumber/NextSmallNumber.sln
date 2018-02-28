@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextSmallNumber", "NextSmallNumber\NextSmallNumber.csproj", "{91E6EE9D-FD46-4185-80B4-40876BA06BC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextSmallNumber_Test", "NextSmallNumber_Test\NextSmallNumber_Test.csproj", "{05B2B816-1756-4231-B55D-8D4772DDFB7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91E6EE9D-FD46-4185-80B4-40876BA06BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E6EE9D-FD46-4185-80B4-40876BA06BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E6EE9D-FD46-4185-80B4-40876BA06BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E6EE9D-FD46-4185-80B4-40876BA06BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05B2B816-1756-4231-B55D-8D4772DDFB7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B2B816-1756-4231-B55D-8D4772DDFB7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B2B816-1756-4231-B55D-8D4772DDFB7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B2B816-1756-4231-B55D-8D4772DDFB7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
