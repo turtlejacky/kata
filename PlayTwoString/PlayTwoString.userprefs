@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4419D2FB-8731-4AAE-8D2F-A0345D0FA8F0}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlayTwoStringTest/PlayTwoStringTest.cs">
+    <Files>
+      <File FileName="PlayTwoString/PlayTwoString.cs" Line="37" Column="49" />
+      <File FileName="PlayTwoStringTest/PlayTwoStringTest.cs" Line="16" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="PlayTwoString" expanded="True">
+            <Node name="PlayTwoStringTest" expanded="True">
+              <Node name="PlayTwoString" expanded="True">
+                <Node name="PlayTwoStringTest" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PlayTwoStringTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

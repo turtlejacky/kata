@@ -1,0 +1,16 @@
+/Users/taojack/Projects/PlayTwoString/PlayTwoStringTest/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/taojack/Projects/PlayTwoString/PlayTwoStringTest/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/taojack/Projects/PlayTwoString/PlayTwoStringTest/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/taojack/Projects/PlayTwoString/PlayTwoStringTest/bin/Debug/netcoreapp2.0/PlayTwoStringTest.deps.json
+/Users/taojack/Projects/PlayTwoString/PlayTwoStringTest/bin/Debug/netcoreapp2.0/PlayTwoStringTest.runtimeconfig.json
+/Users/taojack/Projects/PlayTwoString/PlayTwoStringTest/bin/Debug/netcoreapp2.0/PlayTwoStringTest.runtimeconfig.dev.json
+/Users/taojack/Projects/PlayTwoString/PlayTwoStringTest/bin/Debug/netcoreapp2.0/PlayTwoStringTest.dll
+/Users/taojack/Projects/PlayTwoString/PlayTwoStringTest/bin/Debug/netcoreapp2.0/PlayTwoStringTest.pdb
+/Users/taojack/Projects/PlayTwoString/PlayTwoStringTest/bin/Debug/netcoreapp2.0/PlayTwoString.dll
+/Users/taojack/Projects/PlayTwoString/PlayTwoStringTest/bin/Debug/netcoreapp2.0/PlayTwoString.pdb
+/Users/taojack/Projects/PlayTwoString/PlayTwoStringTest/obj/Debug/netcoreapp2.0/PlayTwoStringTest.csprojResolveAssemblyReference.cache
+/Users/taojack/Projects/PlayTwoString/PlayTwoStringTest/obj/Debug/netcoreapp2.0/PlayTwoStringTest.csproj.CoreCompileInputs.cache
+/Users/taojack/Projects/PlayTwoString/PlayTwoStringTest/obj/Debug/netcoreapp2.0/PlayTwoStringTest.AssemblyInfoInputs.cache
+/Users/taojack/Projects/PlayTwoString/PlayTwoStringTest/obj/Debug/netcoreapp2.0/PlayTwoStringTest.AssemblyInfo.cs
+/Users/taojack/Projects/PlayTwoString/PlayTwoStringTest/obj/Debug/netcoreapp2.0/PlayTwoStringTest.dll
+/Users/taojack/Projects/PlayTwoString/PlayTwoStringTest/obj/Debug/netcoreapp2.0/PlayTwoStringTest.pdb

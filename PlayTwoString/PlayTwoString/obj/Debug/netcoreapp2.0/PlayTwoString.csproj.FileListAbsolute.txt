@@ -1,0 +1,9 @@
+/Users/taojack/Projects/PlayTwoString/PlayTwoString/bin/Debug/netcoreapp2.0/PlayTwoString.deps.json
+/Users/taojack/Projects/PlayTwoString/PlayTwoString/bin/Debug/netcoreapp2.0/PlayTwoString.dll
+/Users/taojack/Projects/PlayTwoString/PlayTwoString/bin/Debug/netcoreapp2.0/PlayTwoString.pdb
+/Users/taojack/Projects/PlayTwoString/PlayTwoString/obj/Debug/netcoreapp2.0/PlayTwoString.csprojResolveAssemblyReference.cache
+/Users/taojack/Projects/PlayTwoString/PlayTwoString/obj/Debug/netcoreapp2.0/PlayTwoString.csproj.CoreCompileInputs.cache
+/Users/taojack/Projects/PlayTwoString/PlayTwoString/obj/Debug/netcoreapp2.0/PlayTwoString.AssemblyInfoInputs.cache
+/Users/taojack/Projects/PlayTwoString/PlayTwoString/obj/Debug/netcoreapp2.0/PlayTwoString.AssemblyInfo.cs
+/Users/taojack/Projects/PlayTwoString/PlayTwoString/obj/Debug/netcoreapp2.0/PlayTwoString.dll
+/Users/taojack/Projects/PlayTwoString/PlayTwoString/obj/Debug/netcoreapp2.0/PlayTwoString.pdb
