@@ -1,0 +1,16 @@
+/Users/taojack/Projects/RunnerMeetings/RunnerMeetingsTest/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/taojack/Projects/RunnerMeetings/RunnerMeetingsTest/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/taojack/Projects/RunnerMeetings/RunnerMeetingsTest/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/taojack/Projects/RunnerMeetings/RunnerMeetingsTest/bin/Debug/netcoreapp2.0/RunnerMeetingsTest.deps.json
+/Users/taojack/Projects/RunnerMeetings/RunnerMeetingsTest/bin/Debug/netcoreapp2.0/RunnerMeetingsTest.runtimeconfig.json
+/Users/taojack/Projects/RunnerMeetings/RunnerMeetingsTest/bin/Debug/netcoreapp2.0/RunnerMeetingsTest.runtimeconfig.dev.json
+/Users/taojack/Projects/RunnerMeetings/RunnerMeetingsTest/bin/Debug/netcoreapp2.0/RunnerMeetingsTest.dll
+/Users/taojack/Projects/RunnerMeetings/RunnerMeetingsTest/bin/Debug/netcoreapp2.0/RunnerMeetingsTest.pdb
+/Users/taojack/Projects/RunnerMeetings/RunnerMeetingsTest/bin/Debug/netcoreapp2.0/RunnerMeetings.dll
+/Users/taojack/Projects/RunnerMeetings/RunnerMeetingsTest/bin/Debug/netcoreapp2.0/RunnerMeetings.pdb
+/Users/taojack/Projects/RunnerMeetings/RunnerMeetingsTest/obj/Debug/netcoreapp2.0/RunnerMeetingsTest.csprojResolveAssemblyReference.cache
+/Users/taojack/Projects/RunnerMeetings/RunnerMeetingsTest/obj/Debug/netcoreapp2.0/RunnerMeetingsTest.csproj.CoreCompileInputs.cache
+/Users/taojack/Projects/RunnerMeetings/RunnerMeetingsTest/obj/Debug/netcoreapp2.0/RunnerMeetingsTest.AssemblyInfoInputs.cache
+/Users/taojack/Projects/RunnerMeetings/RunnerMeetingsTest/obj/Debug/netcoreapp2.0/RunnerMeetingsTest.AssemblyInfo.cs
+/Users/taojack/Projects/RunnerMeetings/RunnerMeetingsTest/obj/Debug/netcoreapp2.0/RunnerMeetingsTest.dll
+/Users/taojack/Projects/RunnerMeetings/RunnerMeetingsTest/obj/Debug/netcoreapp2.0/RunnerMeetingsTest.pdb

@@ -1,0 +1,9 @@
+/Users/taojack/Projects/RunnerMeetings/RunnerMeetings/bin/Debug/netcoreapp2.0/RunnerMeetings.deps.json
+/Users/taojack/Projects/RunnerMeetings/RunnerMeetings/bin/Debug/netcoreapp2.0/RunnerMeetings.dll
+/Users/taojack/Projects/RunnerMeetings/RunnerMeetings/bin/Debug/netcoreapp2.0/RunnerMeetings.pdb
+/Users/taojack/Projects/RunnerMeetings/RunnerMeetings/obj/Debug/netcoreapp2.0/RunnerMeetings.csprojResolveAssemblyReference.cache
+/Users/taojack/Projects/RunnerMeetings/RunnerMeetings/obj/Debug/netcoreapp2.0/RunnerMeetings.csproj.CoreCompileInputs.cache
+/Users/taojack/Projects/RunnerMeetings/RunnerMeetings/obj/Debug/netcoreapp2.0/RunnerMeetings.AssemblyInfoInputs.cache
+/Users/taojack/Projects/RunnerMeetings/RunnerMeetings/obj/Debug/netcoreapp2.0/RunnerMeetings.AssemblyInfo.cs
+/Users/taojack/Projects/RunnerMeetings/RunnerMeetings/obj/Debug/netcoreapp2.0/RunnerMeetings.dll
+/Users/taojack/Projects/RunnerMeetings/RunnerMeetings/obj/Debug/netcoreapp2.0/RunnerMeetings.pdb

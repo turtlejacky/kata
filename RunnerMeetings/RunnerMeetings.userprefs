@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{EF0C2271-2B76-4F37-A1A1-F6B45A6F753D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RunnerMeetingsTest/RunnerMeetingsTest.cs">
+    <Files>
+      <File FileName="RunnerMeetings/RunnerMeetings.cs" Line="56" Column="5" />
+      <File FileName="RunnerMeetingsTest/RunnerMeetingsTest.cs" Line="19" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RunnerMeetingsTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
