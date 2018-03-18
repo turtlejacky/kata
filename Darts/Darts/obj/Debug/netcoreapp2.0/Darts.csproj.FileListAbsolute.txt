@@ -1,0 +1,9 @@
+/Users/taojack/Projects/Darts/Darts/bin/Debug/netcoreapp2.0/Darts.deps.json
+/Users/taojack/Projects/Darts/Darts/bin/Debug/netcoreapp2.0/Darts.dll
+/Users/taojack/Projects/Darts/Darts/bin/Debug/netcoreapp2.0/Darts.pdb
+/Users/taojack/Projects/Darts/Darts/obj/Debug/netcoreapp2.0/Darts.csprojResolveAssemblyReference.cache
+/Users/taojack/Projects/Darts/Darts/obj/Debug/netcoreapp2.0/Darts.csproj.CoreCompileInputs.cache
+/Users/taojack/Projects/Darts/Darts/obj/Debug/netcoreapp2.0/Darts.AssemblyInfoInputs.cache
+/Users/taojack/Projects/Darts/Darts/obj/Debug/netcoreapp2.0/Darts.AssemblyInfo.cs
+/Users/taojack/Projects/Darts/Darts/obj/Debug/netcoreapp2.0/Darts.dll
+/Users/taojack/Projects/Darts/Darts/obj/Debug/netcoreapp2.0/Darts.pdb

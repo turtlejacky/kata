@@ -1,0 +1,16 @@
+/Users/taojack/Projects/Darts/DartsTest/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/taojack/Projects/Darts/DartsTest/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/taojack/Projects/Darts/DartsTest/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/taojack/Projects/Darts/DartsTest/bin/Debug/netcoreapp2.0/DartsTest.deps.json
+/Users/taojack/Projects/Darts/DartsTest/bin/Debug/netcoreapp2.0/DartsTest.runtimeconfig.json
+/Users/taojack/Projects/Darts/DartsTest/bin/Debug/netcoreapp2.0/DartsTest.runtimeconfig.dev.json
+/Users/taojack/Projects/Darts/DartsTest/bin/Debug/netcoreapp2.0/DartsTest.dll
+/Users/taojack/Projects/Darts/DartsTest/bin/Debug/netcoreapp2.0/DartsTest.pdb
+/Users/taojack/Projects/Darts/DartsTest/bin/Debug/netcoreapp2.0/Darts.dll
+/Users/taojack/Projects/Darts/DartsTest/bin/Debug/netcoreapp2.0/Darts.pdb
+/Users/taojack/Projects/Darts/DartsTest/obj/Debug/netcoreapp2.0/DartsTest.csprojResolveAssemblyReference.cache
+/Users/taojack/Projects/Darts/DartsTest/obj/Debug/netcoreapp2.0/DartsTest.csproj.CoreCompileInputs.cache
+/Users/taojack/Projects/Darts/DartsTest/obj/Debug/netcoreapp2.0/DartsTest.AssemblyInfoInputs.cache
+/Users/taojack/Projects/Darts/DartsTest/obj/Debug/netcoreapp2.0/DartsTest.AssemblyInfo.cs
+/Users/taojack/Projects/Darts/DartsTest/obj/Debug/netcoreapp2.0/DartsTest.dll
+/Users/taojack/Projects/Darts/DartsTest/obj/Debug/netcoreapp2.0/DartsTest.pdb

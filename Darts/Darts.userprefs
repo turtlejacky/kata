@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{A9A592E7-A934-4F00-8995-90D4757525BB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Darts/PlayDarts.cs">
+    <Files>
+      <File FileName="Darts/PlayDarts.cs" Line="21" Column="27" />
+      <File FileName="DartsTest/DartsTest.cs" Line="12" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DartsTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
