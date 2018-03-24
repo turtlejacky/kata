@@ -1,4 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
 
 namespace Darts
 {
@@ -26,13 +27,13 @@ namespace Darts
             Assert.AreEqual("T2", dartsBoard.GetScore(55.53, -87.95));
             Assert.AreEqual("D9", dartsBoard.GetScore(-145.19, 86.5));
 
+
+    
+
         }
-        /*
-        [TestMethod]
-        public void Test(){
-            Assert.AreEqual("T2", dartsBoard.GetDistance(55.53, -87.95));
-        }
-        */
+
+
+
        
     }
 }

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Darts
 {
@@ -10,65 +11,43 @@ namespace Darts
             var slope = Math.Abs(GetSlope(x, y));
             var area = GetArea(x, y);// 1,2,3,4
 
+            var radians = Math.Atan(Math.Abs(GetSlope(x, y)));
+            var angle = radians * (180 / Math.PI);
+
+            Dictionary<int, int> scoreOfArea1 = new Dictionary<int, int>()  // tan score
+            {
+                {9 , 6}, { 27, 13 }, { 45, 4 }, { 63, 18 },{ 81, 1 },{ 90 , 20 }
+            }; 
+            Dictionary<int, int> scoreOfArea2 = new Dictionary<int, int>()  // tan score
+            {
+                {9 , 11}, { 27, 14 }, { 45, 9 }, { 63, 12 },{ 81, 5 },{ 90 , 20 }
+            }; 
+            Dictionary<int, int> scoreOfArea3 = new Dictionary<int, int>()  // tan score
+            {
+                {9 ,11}, { 27, 8 }, { 45, 16 }, { 63, 7 },{ 81, 19 },{ 90 , 3 }
+            }; 
+            Dictionary<int, int> scoreOfArea4 = new Dictionary<int, int>()  // tan score
+            {
+                {9 , 6}, { 27, 10 }, { 45, 15 }, { 63, 2 },{ 81, 17 },{ 90 , 3 }
+            };
+
+
+            Dictionary<int, Dictionary<int, int>> scoreOfAll = new Dictionary<int, Dictionary<int, int>>()
+            { { 1, scoreOfArea1 } , { 2, scoreOfArea2 },  { 3, scoreOfArea3 }, { 4, scoreOfArea4 }};
+
             var score = 0;
-            if ( area == 1 ){
-                if (slope < 0.1584)
-                    score = 6;
-                else if (slope < 0.5095)
-                    score = 13;
-                else if (slope < 1)
-                    score = 4;
-                else if (slope < 1.963)
-                    score = 18;
-                else if (slope < 6.314)
-                    score = 1;
-                else
-                    score = 20;
-                
-            } else if ( area == 2 ) {
-                if (slope < 0.1584)
-                    score = 11;
-                else if (slope < 0.5095)
-                    score = 14;
-                else if (slope < 1)
-                    score = 9;
-                else if (slope < 1.963)
-                    score = 12;
-                else if (slope < 6.314)
-                    score = 5;
-                else
-                    score = 20;
-                
-            } else if ( area == 3 ) {
-                if (slope < 0.1584)
-                    score = 11;
-                else if (slope < 0.5095)
-                    score = 8;
-                else if (slope < 1)
-                    score = 16;
-                else if (slope < 1.963)
-                    score = 7;
-                else if (slope < 6.314)
-                    score = 19;
-                else
-                    score = 3;
-            } else if ( area == 4 ) {
-                if (slope < 0.1584)
-                    score = 6;
-                else if (slope < 0.5095)
-                    score = 10;
-                else if (slope < 1)
-                    score = 15;
-                else if (slope < 1.963)
-                    score = 2;
-                else if (slope < 6.314)
-                    score = 17;
-                else
-                    score = 3;
-            }
-
-
-
+            if ( angle < 9)
+                score = scoreOfAll[area][9];
+            else if (angle < 27)
+                score = scoreOfAll[area][27];
+            else if (angle < 45)
+                score = scoreOfAll[area][45];
+            else if (angle < 63)
+                score = scoreOfAll[area][63];
+            else if (angle < 81)
+                score = scoreOfAll[area][81];
+            else
+                score = scoreOfAll[area][90];
 
 
             if (distance < 6.35)
@@ -96,19 +75,9 @@ namespace Darts
         }
         public int GetArea( double x, double y ) {
             if (x > 0)
-            {
-                if (y > 0)
-                    return 1;
-                else
-                    return 4;
-            }
+                return y > 0 ? 1 : 4;
             else
-            {
-                if (y > 0)
-                    return 2;
-                else
-                    return 3;
-            }
+                return y > 0 ? 2 : 3;
         }
     }
 }
