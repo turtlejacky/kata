@@ -1,0 +1,10 @@
+C:\Users\neil.tao83\source\repos\LargestSubsequences\LargestSubsequencesTests\bin\Debug\LargestSubsequencesTests.dll
+C:\Users\neil.tao83\source\repos\LargestSubsequences\LargestSubsequencesTests\bin\Debug\LargestSubsequencesTests.pdb
+C:\Users\neil.tao83\source\repos\LargestSubsequences\LargestSubsequencesTests\bin\Debug\LargestSubsequences.dll
+C:\Users\neil.tao83\source\repos\LargestSubsequences\LargestSubsequencesTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\neil.tao83\source\repos\LargestSubsequences\LargestSubsequencesTests\bin\Debug\LargestSubsequences.pdb
+C:\Users\neil.tao83\source\repos\LargestSubsequences\LargestSubsequencesTests\obj\Debug\LargestSubsequencesTests.csprojResolveAssemblyReference.cache
+C:\Users\neil.tao83\source\repos\LargestSubsequences\LargestSubsequencesTests\obj\Debug\LargestSubsequencesTests.csproj.CoreCompileInputs.cache
+C:\Users\neil.tao83\source\repos\LargestSubsequences\LargestSubsequencesTests\obj\Debug\LargestSubsequencesTests.csproj.CopyComplete
+C:\Users\neil.tao83\source\repos\LargestSubsequences\LargestSubsequencesTests\obj\Debug\LargestSubsequencesTests.dll
+C:\Users\neil.tao83\source\repos\LargestSubsequences\LargestSubsequencesTests\obj\Debug\LargestSubsequencesTests.pdb

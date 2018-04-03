@@ -1,0 +1,6 @@
+C:\Users\neil.tao83\source\repos\LargestSubsequences\LargestSubsequences\bin\Debug\LargestSubsequences.dll
+C:\Users\neil.tao83\source\repos\LargestSubsequences\LargestSubsequences\bin\Debug\LargestSubsequences.pdb
+C:\Users\neil.tao83\source\repos\LargestSubsequences\LargestSubsequences\obj\Debug\LargestSubsequences.csprojResolveAssemblyReference.cache
+C:\Users\neil.tao83\source\repos\LargestSubsequences\LargestSubsequences\obj\Debug\LargestSubsequences.csproj.CoreCompileInputs.cache
+C:\Users\neil.tao83\source\repos\LargestSubsequences\LargestSubsequences\obj\Debug\LargestSubsequences.dll
+C:\Users\neil.tao83\source\repos\LargestSubsequences\LargestSubsequences\obj\Debug\LargestSubsequences.pdb
