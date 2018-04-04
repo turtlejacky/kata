@@ -1,0 +1,6 @@
+C:\Users\neil.tao83\source\repos\CarEscape\CarEscape\bin\Debug\CarEscape.dll
+C:\Users\neil.tao83\source\repos\CarEscape\CarEscape\bin\Debug\CarEscape.pdb
+C:\Users\neil.tao83\source\repos\CarEscape\CarEscape\obj\Debug\CarEscape.csprojResolveAssemblyReference.cache
+C:\Users\neil.tao83\source\repos\CarEscape\CarEscape\obj\Debug\CarEscape.csproj.CoreCompileInputs.cache
+C:\Users\neil.tao83\source\repos\CarEscape\CarEscape\obj\Debug\CarEscape.dll
+C:\Users\neil.tao83\source\repos\CarEscape\CarEscape\obj\Debug\CarEscape.pdb

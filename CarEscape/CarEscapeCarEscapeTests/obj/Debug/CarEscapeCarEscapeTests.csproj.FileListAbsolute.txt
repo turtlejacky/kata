@@ -1,0 +1,10 @@
+C:\Users\neil.tao83\source\repos\CarEscape\CarEscapeCarEscapeTests\bin\Debug\CarEscapeCarEscapeTests.dll
+C:\Users\neil.tao83\source\repos\CarEscape\CarEscapeCarEscapeTests\bin\Debug\CarEscapeCarEscapeTests.pdb
+C:\Users\neil.tao83\source\repos\CarEscape\CarEscapeCarEscapeTests\bin\Debug\CarEscape.dll
+C:\Users\neil.tao83\source\repos\CarEscape\CarEscapeCarEscapeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\neil.tao83\source\repos\CarEscape\CarEscapeCarEscapeTests\bin\Debug\CarEscape.pdb
+C:\Users\neil.tao83\source\repos\CarEscape\CarEscapeCarEscapeTests\obj\Debug\CarEscapeCarEscapeTests.csprojResolveAssemblyReference.cache
+C:\Users\neil.tao83\source\repos\CarEscape\CarEscapeCarEscapeTests\obj\Debug\CarEscapeCarEscapeTests.csproj.CoreCompileInputs.cache
+C:\Users\neil.tao83\source\repos\CarEscape\CarEscapeCarEscapeTests\obj\Debug\CarEscapeCarEscapeTests.csproj.CopyComplete
+C:\Users\neil.tao83\source\repos\CarEscape\CarEscapeCarEscapeTests\obj\Debug\CarEscapeCarEscapeTests.dll
+C:\Users\neil.tao83\source\repos\CarEscape\CarEscapeCarEscapeTests\obj\Debug\CarEscapeCarEscapeTests.pdb
