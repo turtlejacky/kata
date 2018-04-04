@@ -1,0 +1,10 @@
+C:\Users\neil.tao83\source\repos\IsAnagram\IsAnagramAnagramTests\bin\Debug\IsAnagramAnagramTests.dll
+C:\Users\neil.tao83\source\repos\IsAnagram\IsAnagramAnagramTests\bin\Debug\IsAnagramAnagramTests.pdb
+C:\Users\neil.tao83\source\repos\IsAnagram\IsAnagramAnagramTests\bin\Debug\IsAnagram.dll
+C:\Users\neil.tao83\source\repos\IsAnagram\IsAnagramAnagramTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\neil.tao83\source\repos\IsAnagram\IsAnagramAnagramTests\bin\Debug\IsAnagram.pdb
+C:\Users\neil.tao83\source\repos\IsAnagram\IsAnagramAnagramTests\obj\Debug\IsAnagramAnagramTests.csprojResolveAssemblyReference.cache
+C:\Users\neil.tao83\source\repos\IsAnagram\IsAnagramAnagramTests\obj\Debug\IsAnagramAnagramTests.csproj.CoreCompileInputs.cache
+C:\Users\neil.tao83\source\repos\IsAnagram\IsAnagramAnagramTests\obj\Debug\IsAnagramAnagramTests.csproj.CopyComplete
+C:\Users\neil.tao83\source\repos\IsAnagram\IsAnagramAnagramTests\obj\Debug\IsAnagramAnagramTests.dll
+C:\Users\neil.tao83\source\repos\IsAnagram\IsAnagramAnagramTests\obj\Debug\IsAnagramAnagramTests.pdb

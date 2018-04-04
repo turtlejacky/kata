@@ -1,0 +1,8 @@
+C:\Users\neil.tao83\source\repos\IsAnagram\IsAnagram\bin\Debug\IsAnagram.dll
+C:\Users\neil.tao83\source\repos\IsAnagram\IsAnagram\bin\Debug\IsAnagram.pdb
+C:\Users\neil.tao83\source\repos\IsAnagram\IsAnagram\obj\Debug\IsAnagram.csprojResolveAssemblyReference.cache
+C:\Users\neil.tao83\source\repos\IsAnagram\IsAnagram\obj\Debug\IsAnagram.csproj.CoreCompileInputs.cache
+C:\Users\neil.tao83\source\repos\IsAnagram\IsAnagram\obj\Debug\IsAnagram.dll
+C:\Users\neil.tao83\source\repos\IsAnagram\IsAnagram\obj\Debug\IsAnagram.pdb
+C:\Users\neil.tao83\source\repos\IsAnagram\IsAnagram\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\neil.tao83\source\repos\IsAnagram\IsAnagram\obj\Debug\IsAnagram.csproj.CopyComplete
