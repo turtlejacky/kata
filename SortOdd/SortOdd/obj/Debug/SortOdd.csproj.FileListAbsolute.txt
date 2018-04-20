@@ -4,3 +4,9 @@ C:\Users\neil.tao83\source\repos\SortOdd\SortOdd\obj\Debug\SortOdd.csprojResolve
 C:\Users\neil.tao83\source\repos\SortOdd\SortOdd\obj\Debug\SortOdd.csproj.CoreCompileInputs.cache
 C:\Users\neil.tao83\source\repos\SortOdd\SortOdd\obj\Debug\SortOdd.dll
 C:\Users\neil.tao83\source\repos\SortOdd\SortOdd\obj\Debug\SortOdd.pdb
+C:\kata\kata\SortOdd\SortOdd\bin\Debug\SortOdd.dll
+C:\kata\kata\SortOdd\SortOdd\bin\Debug\SortOdd.pdb
+C:\kata\kata\SortOdd\SortOdd\obj\Debug\SortOdd.csprojResolveAssemblyReference.cache
+C:\kata\kata\SortOdd\SortOdd\obj\Debug\SortOdd.csproj.CoreCompileInputs.cache
+C:\kata\kata\SortOdd\SortOdd\obj\Debug\SortOdd.dll
+C:\kata\kata\SortOdd\SortOdd\obj\Debug\SortOdd.pdb

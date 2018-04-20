@@ -8,3 +8,13 @@ C:\Users\neil.tao83\source\repos\SortOdd\SortOddSortOddTests\obj\Debug\SortOddSo
 C:\Users\neil.tao83\source\repos\SortOdd\SortOddSortOddTests\obj\Debug\SortOddSortOddTests.csproj.CopyComplete
 C:\Users\neil.tao83\source\repos\SortOdd\SortOddSortOddTests\obj\Debug\SortOddSortOddTests.dll
 C:\Users\neil.tao83\source\repos\SortOdd\SortOddSortOddTests\obj\Debug\SortOddSortOddTests.pdb
+C:\kata\kata\SortOdd\SortOddSortOddTests\bin\Debug\SortOddSortOddTests.dll
+C:\kata\kata\SortOdd\SortOddSortOddTests\bin\Debug\SortOddSortOddTests.pdb
+C:\kata\kata\SortOdd\SortOddSortOddTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\kata\kata\SortOdd\SortOddSortOddTests\bin\Debug\SortOdd.dll
+C:\kata\kata\SortOdd\SortOddSortOddTests\bin\Debug\SortOdd.pdb
+C:\kata\kata\SortOdd\SortOddSortOddTests\obj\Debug\SortOddSortOddTests.csprojResolveAssemblyReference.cache
+C:\kata\kata\SortOdd\SortOddSortOddTests\obj\Debug\SortOddSortOddTests.csproj.CoreCompileInputs.cache
+C:\kata\kata\SortOdd\SortOddSortOddTests\obj\Debug\SortOddSortOddTests.csproj.CopyComplete
+C:\kata\kata\SortOdd\SortOddSortOddTests\obj\Debug\SortOddSortOddTests.dll
+C:\kata\kata\SortOdd\SortOddSortOddTests\obj\Debug\SortOddSortOddTests.pdb
