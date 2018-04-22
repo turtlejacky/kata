@@ -1,0 +1,10 @@
+C:\Users\neil.tao83\source\repos\ChangeCoins\ChangeCoinsTests\bin\Debug\ChangeCoinsTests.dll
+C:\Users\neil.tao83\source\repos\ChangeCoins\ChangeCoinsTests\bin\Debug\ChangeCoinsTests.pdb
+C:\Users\neil.tao83\source\repos\ChangeCoins\ChangeCoinsTests\bin\Debug\ChangeCoins.dll
+C:\Users\neil.tao83\source\repos\ChangeCoins\ChangeCoinsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\neil.tao83\source\repos\ChangeCoins\ChangeCoinsTests\bin\Debug\ChangeCoins.pdb
+C:\Users\neil.tao83\source\repos\ChangeCoins\ChangeCoinsTests\obj\Debug\ChangeCoinsTests.csprojResolveAssemblyReference.cache
+C:\Users\neil.tao83\source\repos\ChangeCoins\ChangeCoinsTests\obj\Debug\ChangeCoinsTests.csproj.CoreCompileInputs.cache
+C:\Users\neil.tao83\source\repos\ChangeCoins\ChangeCoinsTests\obj\Debug\ChangeCoinsTests.csproj.CopyComplete
+C:\Users\neil.tao83\source\repos\ChangeCoins\ChangeCoinsTests\obj\Debug\ChangeCoinsTests.dll
+C:\Users\neil.tao83\source\repos\ChangeCoins\ChangeCoinsTests\obj\Debug\ChangeCoinsTests.pdb

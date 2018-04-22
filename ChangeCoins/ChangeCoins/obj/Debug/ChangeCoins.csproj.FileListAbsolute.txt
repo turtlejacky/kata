@@ -1,0 +1,6 @@
+C:\Users\neil.tao83\source\repos\ChangeCoins\ChangeCoins\bin\Debug\ChangeCoins.dll
+C:\Users\neil.tao83\source\repos\ChangeCoins\ChangeCoins\bin\Debug\ChangeCoins.pdb
+C:\Users\neil.tao83\source\repos\ChangeCoins\ChangeCoins\obj\Debug\ChangeCoins.csprojResolveAssemblyReference.cache
+C:\Users\neil.tao83\source\repos\ChangeCoins\ChangeCoins\obj\Debug\ChangeCoins.csproj.CoreCompileInputs.cache
+C:\Users\neil.tao83\source\repos\ChangeCoins\ChangeCoins\obj\Debug\ChangeCoins.dll
+C:\Users\neil.tao83\source\repos\ChangeCoins\ChangeCoins\obj\Debug\ChangeCoins.pdb
