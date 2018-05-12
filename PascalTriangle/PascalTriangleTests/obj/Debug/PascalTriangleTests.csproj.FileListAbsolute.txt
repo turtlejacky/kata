@@ -1,0 +1,11 @@
+C:\Users\neil.tao83\source\repos\PascalTriangle\PascalTriangleTests\bin\Debug\PascalTriangleTests.dll
+C:\Users\neil.tao83\source\repos\PascalTriangle\PascalTriangleTests\bin\Debug\PascalTriangleTests.pdb
+C:\Users\neil.tao83\source\repos\PascalTriangle\PascalTriangleTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\neil.tao83\source\repos\PascalTriangle\PascalTriangleTests\bin\Debug\PascalTriangle.dll
+C:\Users\neil.tao83\source\repos\PascalTriangle\PascalTriangleTests\bin\Debug\PascalTriangle.pdb
+C:\Users\neil.tao83\source\repos\PascalTriangle\PascalTriangleTests\obj\Debug\PascalTriangleTests.csprojResolveAssemblyReference.cache
+C:\Users\neil.tao83\source\repos\PascalTriangle\PascalTriangleTests\obj\Debug\PascalTriangleTests.csproj.CoreCompileInputs.cache
+C:\Users\neil.tao83\source\repos\PascalTriangle\PascalTriangleTests\obj\Debug\PascalTriangleTests.csproj.CopyComplete
+C:\Users\neil.tao83\source\repos\PascalTriangle\PascalTriangleTests\obj\Debug\PascalTriangleTests.dll
+C:\Users\neil.tao83\source\repos\PascalTriangle\PascalTriangleTests\obj\Debug\PascalTriangleTests.pdb
+C:\Users\neil.tao83\source\repos\PascalTriangle\PascalTriangleTests\bin\Debug\ExpectedObjects.dll

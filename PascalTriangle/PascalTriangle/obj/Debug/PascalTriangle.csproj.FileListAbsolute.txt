@@ -1,0 +1,8 @@
+C:\Users\neil.tao83\source\repos\PascalTriangle\PascalTriangle\bin\Debug\PascalTriangle.dll
+C:\Users\neil.tao83\source\repos\PascalTriangle\PascalTriangle\bin\Debug\PascalTriangle.pdb
+C:\Users\neil.tao83\source\repos\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.csprojResolveAssemblyReference.cache
+C:\Users\neil.tao83\source\repos\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\neil.tao83\source\repos\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.dll
+C:\Users\neil.tao83\source\repos\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.pdb
+C:\Users\neil.tao83\source\repos\PascalTriangle\PascalTriangle\bin\Debug\ExpectedObjects.dll
+C:\Users\neil.tao83\source\repos\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.csproj.CopyComplete
