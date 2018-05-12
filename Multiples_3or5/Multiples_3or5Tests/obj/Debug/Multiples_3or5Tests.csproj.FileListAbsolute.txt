@@ -1,0 +1,10 @@
+C:\Users\neil.tao83\source\repos\Multiples_3or5\Multiples_3or5Tests\bin\Debug\Multiples_3or5Tests.dll
+C:\Users\neil.tao83\source\repos\Multiples_3or5\Multiples_3or5Tests\bin\Debug\Multiples_3or5Tests.pdb
+C:\Users\neil.tao83\source\repos\Multiples_3or5\Multiples_3or5Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\neil.tao83\source\repos\Multiples_3or5\Multiples_3or5Tests\bin\Debug\Multiples_3or5.dll
+C:\Users\neil.tao83\source\repos\Multiples_3or5\Multiples_3or5Tests\bin\Debug\Multiples_3or5.pdb
+C:\Users\neil.tao83\source\repos\Multiples_3or5\Multiples_3or5Tests\obj\Debug\Multiples_3or5Tests.csprojResolveAssemblyReference.cache
+C:\Users\neil.tao83\source\repos\Multiples_3or5\Multiples_3or5Tests\obj\Debug\Multiples_3or5Tests.csproj.CoreCompileInputs.cache
+C:\Users\neil.tao83\source\repos\Multiples_3or5\Multiples_3or5Tests\obj\Debug\Multiples_3or5Tests.csproj.CopyComplete
+C:\Users\neil.tao83\source\repos\Multiples_3or5\Multiples_3or5Tests\obj\Debug\Multiples_3or5Tests.dll
+C:\Users\neil.tao83\source\repos\Multiples_3or5\Multiples_3or5Tests\obj\Debug\Multiples_3or5Tests.pdb

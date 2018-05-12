@@ -1,0 +1,6 @@
+C:\Users\neil.tao83\source\repos\Multiples_3or5\Multiples_3or5\bin\Debug\Multiples_3or5.dll
+C:\Users\neil.tao83\source\repos\Multiples_3or5\Multiples_3or5\bin\Debug\Multiples_3or5.pdb
+C:\Users\neil.tao83\source\repos\Multiples_3or5\Multiples_3or5\obj\Debug\Multiples_3or5.csprojResolveAssemblyReference.cache
+C:\Users\neil.tao83\source\repos\Multiples_3or5\Multiples_3or5\obj\Debug\Multiples_3or5.csproj.CoreCompileInputs.cache
+C:\Users\neil.tao83\source\repos\Multiples_3or5\Multiples_3or5\obj\Debug\Multiples_3or5.dll
+C:\Users\neil.tao83\source\repos\Multiples_3or5\Multiples_3or5\obj\Debug\Multiples_3or5.pdb
