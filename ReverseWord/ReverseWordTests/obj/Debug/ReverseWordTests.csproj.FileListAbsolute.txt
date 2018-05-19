@@ -1,0 +1,10 @@
+C:\Users\neil.tao83\source\repos\ReverseWord\ReverseWordTests\bin\Debug\ReverseWordTests.dll
+C:\Users\neil.tao83\source\repos\ReverseWord\ReverseWordTests\bin\Debug\ReverseWordTests.pdb
+C:\Users\neil.tao83\source\repos\ReverseWord\ReverseWordTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\neil.tao83\source\repos\ReverseWord\ReverseWordTests\bin\Debug\ReverseWord.dll
+C:\Users\neil.tao83\source\repos\ReverseWord\ReverseWordTests\bin\Debug\ReverseWord.pdb
+C:\Users\neil.tao83\source\repos\ReverseWord\ReverseWordTests\obj\Debug\ReverseWordTests.csprojResolveAssemblyReference.cache
+C:\Users\neil.tao83\source\repos\ReverseWord\ReverseWordTests\obj\Debug\ReverseWordTests.csproj.CoreCompileInputs.cache
+C:\Users\neil.tao83\source\repos\ReverseWord\ReverseWordTests\obj\Debug\ReverseWordTests.csproj.CopyComplete
+C:\Users\neil.tao83\source\repos\ReverseWord\ReverseWordTests\obj\Debug\ReverseWordTests.dll
+C:\Users\neil.tao83\source\repos\ReverseWord\ReverseWordTests\obj\Debug\ReverseWordTests.pdb
