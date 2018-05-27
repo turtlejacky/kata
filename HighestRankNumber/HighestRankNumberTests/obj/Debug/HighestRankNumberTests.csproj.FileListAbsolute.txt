@@ -1,0 +1,10 @@
+C:\kata\kata\HighestRankNumber\HighestRankNumberTests\bin\Debug\HighestRankNumberTests.dll
+C:\kata\kata\HighestRankNumber\HighestRankNumberTests\bin\Debug\HighestRankNumberTests.pdb
+C:\kata\kata\HighestRankNumber\HighestRankNumberTests\bin\Debug\HighestRankNumber.dll
+C:\kata\kata\HighestRankNumber\HighestRankNumberTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\kata\kata\HighestRankNumber\HighestRankNumberTests\bin\Debug\HighestRankNumber.pdb
+C:\kata\kata\HighestRankNumber\HighestRankNumberTests\obj\Debug\HighestRankNumberTests.csprojResolveAssemblyReference.cache
+C:\kata\kata\HighestRankNumber\HighestRankNumberTests\obj\Debug\HighestRankNumberTests.csproj.CoreCompileInputs.cache
+C:\kata\kata\HighestRankNumber\HighestRankNumberTests\obj\Debug\HighestRankNumberTests.csproj.CopyComplete
+C:\kata\kata\HighestRankNumber\HighestRankNumberTests\obj\Debug\HighestRankNumberTests.dll
+C:\kata\kata\HighestRankNumber\HighestRankNumberTests\obj\Debug\HighestRankNumberTests.pdb

@@ -1,0 +1,6 @@
+C:\kata\kata\HighestRankNumber\HighestRankNumber\bin\Debug\HighestRankNumber.dll
+C:\kata\kata\HighestRankNumber\HighestRankNumber\bin\Debug\HighestRankNumber.pdb
+C:\kata\kata\HighestRankNumber\HighestRankNumber\obj\Debug\HighestRankNumber.csprojResolveAssemblyReference.cache
+C:\kata\kata\HighestRankNumber\HighestRankNumber\obj\Debug\HighestRankNumber.csproj.CoreCompileInputs.cache
+C:\kata\kata\HighestRankNumber\HighestRankNumber\obj\Debug\HighestRankNumber.dll
+C:\kata\kata\HighestRankNumber\HighestRankNumber\obj\Debug\HighestRankNumber.pdb
